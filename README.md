@@ -37,6 +37,8 @@ https://www.youtube.com/shorts/tLLG3RAhL6I
 
 ![IMG-20260111-WA0007](https://github.com/user-attachments/assets/139dea82-fcfe-4b6b-8dba-15d83fa999a2)
 
+I also tested the printing on an Epson TM-T20II USB printer. It printed very well as well.
+
 ## Specific application:
 
 For years I have developed printing systems over the Internet, but this always required the use of microcontrollers that printed over serial/RS232 ports. Now, I will be able to use USB printers, which are more modern and accessible.
