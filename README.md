@@ -44,4 +44,4 @@ I also tested the printing on an Epson TM-T20II USB printer. It printed very wel
 
 ## Specific application:
 
-For years I have developed printing systems over the Internet, but this always required the use of microcontrollers that printed over serial/RS232 ports. Now, I will be able to use USB printers, which are more modern and accessible.
+For years I have developed printing systems over the Internet, but this many times required the use of microcontrollers that printed over serial/RS232 ports. Now, I will be able to use USB printers, which are more modern and accessible.
