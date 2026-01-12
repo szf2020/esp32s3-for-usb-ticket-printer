@@ -1,5 +1,5 @@
 # esp32s3-for-usb-ticket-printer
-Esc Pos Usb printers with Esp32S3
+Esc Pos Usb printer with Esp32S3
 
 The code that finally worked doesn't rely on a "library" in the traditional Arduino sense (like something you download from a Library Manager). 
 Instead, it uses the Native ESP-IDF USB Host Stack.
