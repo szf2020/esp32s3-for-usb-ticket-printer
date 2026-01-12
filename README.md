@@ -22,11 +22,11 @@ Key Components of the code script:
 
 usb_host_install Powers on the USB hardware inside the ESP32-S3.
 
-usb_host_client_registerCreates a "listener" for when you plug/unplug the cable.
+usb_host_client_register Creates a "listener" for when you plug/unplug the cable.
 
-usb_host_interface_claimLocks the printer so it only listens to your ESP32.
+usb_host_interface_claim Locks the printer so it only listens to your ESP32.
 
-usb_host_transfer_submitPushes the ESC/POS bytes through the wire to the thermal head.
+usb_host_transfer_submit Pushes the ESC/POS bytes through the wire to the thermal head.
 
 
 https://www.youtube.com/shorts/tLLG3RAhL6I
