@@ -12,7 +12,7 @@ Most Arduino USB libraries are written for external chips (like the MAX3421E). T
 
 Interface Claiming: 
 
-The "secret sauce" was usb_host_interface_claim. USB devices are protective; they won't accept data until a Host explicitly "claims" the interface.
+The "secret sauce" is usb_host_interface_claim. USB devices are protective; they won't accept data until a Host explicitly "claims" the interface.
 
 Endpoint Discovery: 
 
